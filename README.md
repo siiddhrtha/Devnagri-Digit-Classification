@@ -7,3 +7,6 @@ The network parameters are learned though the back-propagation algorithm. MNIST 
 
 
 I have included the Results and the live demo of the classification and testing of the images
+
+
+Data Sets can be Found in Kaggle website
